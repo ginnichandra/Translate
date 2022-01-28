@@ -1,7 +1,6 @@
 import React, { useState } from 'react';
 import i18n from './i18n';
 
-// the hoc
 import { withNamespaces } from 'react-i18next';
 
 function App({ t }) {
